@@ -1,2 +1,2 @@
 Pseudo code in python to analyze mars atmosphere
-wolfman thinks we need a scatterplot of pressure
+wolfman and mummy thinks we need a scatterplot of pressure
